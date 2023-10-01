@@ -1,4 +1,3 @@
-[![MasterHead]([![MasterHead](https://media.discordapp.net/attachments/994615324592832612/1157950288871833660/Im_Prince.png?ex=651a78be&is=6519273e&hm=32d4f0e9a826010c085e69e196746597c160333f6ae441d3f8a92fa2cf44a687&=)](https://depictnet.brizy.site)
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">A passionate Bot/Game developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
