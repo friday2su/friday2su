@@ -8,17 +8,17 @@
 
 - 🌱 I’m currently learning **Coding**
 
-- 👯 I’m looking to collaborate on **Depict Net**
+- 👯 I’m looking to collaborate on **Ghost Planet**
 
 - 🤝 I’m looking for help with **Jarvis**
 
-- 👨‍💻 All of my projects are available at [https://depictnet.brizy.site/](https://depictnet.brizy.site/)
+- 👨‍💻 All of my projects are available at [Discord Server](https://discord.gg/fhtPUQ8BcW)
 
-- 📝 I regularly write articles on [https://depictnet.brizy.site/](https://depictnet.brizy.site/)
+- 📝 I regularly write articles on [Website](https://depictnet.brizy.site/)
 
 - 💬 Ask me about **Programmer, Developer**
 
-- ⚡ Fun fact **T think I'm Funny**
+- ⚡ Fun fact **I think I'm Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
