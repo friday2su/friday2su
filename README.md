@@ -1,25 +1,32 @@
-<h1 align="center">Hi 👋, I'm Friday</h1>
-<h3 align="center">A passionate Bot/Game developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+### Hi there, I'm Friday - aka [Friday.su][website] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-princeyt336&label=Profile%20views&color=0e75b6&style=flat" alt="itz-princeyt336" /> </p>
 
-- 🔭 I’m currently working on **Discord Bots**
+## I'm a Student, Youtuber, and a Developer!!
 
-- 🌱 I’m currently learning **C++**
+- 🔭 I’m currently working on [Mongo Gen](https://github.com/itz-princeyt336/Mongo-Gen)
+- 👯 I’m looking to collaborate with other content creators and developers!
+- 🥅 2024 Goals: Contribute to more Open Source projects!
+- ⚡ Fun fact: I am a verified bot developer on discord
 
-- 💬 Ask me about **Javascript**
+### Connect with me:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/uxrahul.sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uxrahul.sh" height="30" width="40" /></a>
-<a href="https://youtube.com/@Im0Prince?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ghostplanet" height="30" width="40" /></a>
-<a href="https://discord.gg/3Ctw7ez3ys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3Ctw7ez3ys" height="30" width="40" /></a>
-</p>
+[![](https://discord.c99.nl/widget/theme-4/1203605618745933880.png)](https://discord.gg/zPjH55uCYt)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+[<img align="left" alt="cws | YouTube" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" />][youtube]
+[<img align="left" alt="cws | Instagram" width="22px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" />][instagram]
+[<img align="left" alt="cws | Discord" width="22px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png" />][discord]
+<br />
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itz-princeyt336&show_icons=true&theme=onedark&locale=en&layout=compact" alt="itz-princeyt336" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itz-princeyt336&show_icons=true&theme=onedark&locale=en" alt="itz-princeyt336" /></p>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <br>
+  <img align="left" alt="Friday's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itz-princeyt336&show_icons=true&hide_border=true&theme=radical" />
+
+</details>
+
+[website]: https://github.com/itz-princeyt336
+[instagram]: https://instagram.com/uxrahul.sh
+[youtube]: https://youtube.com/@Im0Prince?sub_confirmation=1
+[discord]: https://discord.gg/zPjH55uCYt
