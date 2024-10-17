@@ -3,7 +3,7 @@
 
 ## I'm a Student, Youtuber, and a Developer!!
 
-- 🔭 I’m currently working on [Mongo Gen](https://github.com/itz-princeyt336/Mongo-Gen)
+- 🔭 I’m currently working on [Mongo Gen](https://github.com/friday2su/Discord-Bot)
 - 👯 I’m looking to collaborate with other content creators and developers!
 - 🥅 2024 Goals: Contribute to more Open Source projects!
 - ⚡ Fun fact: I am a verified bot developer on discord
@@ -22,11 +22,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br>
-  <img align="left" alt="Friday's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itz-princeyt336&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="Friday's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=friday2su&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
 
-[website]: https://github.com/itz-princeyt336
+[website]: https://github.com/friday2su
 [instagram]: https://instagram.com/uxrahul.sh
 [youtube]: https://youtube.com/@Im0Prince?sub_confirmation=1
 [discord]: https://discord.gg/zPjH55uCYt
