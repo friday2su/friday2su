@@ -3,7 +3,7 @@
 
 ## I'm a Student, Youtuber, and a Developer!!
 
-- 🔭 I’m currently working on [Mongo Gen](https://github.com/friday2su/Discord-Bot)
+- 🔭 I’m currently working on [Discord Bot](https://github.com/friday2su/Discord-Bot)
 - 👯 I’m looking to collaborate with other content creators and developers!
 - 🥅 2024 Goals: Contribute to more Open Source projects!
 - ⚡ Fun fact: I am a verified bot developer on discord
