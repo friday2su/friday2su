@@ -12,6 +12,8 @@
 
 [![](https://discord.c99.nl/widget/theme-4/1203605618745933880.png)](https://discord.gg/zPjH55uCYt)
 
+<img  src="snake.svg" alt="example" />
+
 [<img align="left" alt="cws | YouTube" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" />][youtube]
 [<img align="left" alt="cws | Instagram" width="22px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" />][instagram]
 [<img align="left" alt="cws | Discord" width="22px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png" />][discord]
