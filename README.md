@@ -29,6 +29,6 @@
 </details>
 
 [website]: https://github.com/friday2su
-[instagram]: https://instagram.com/uxrahul.sh
-[youtube]: https://youtube.com/@Im0Prince?sub_confirmation=1
-[discord]: https://discord.gg/zPjH55uCYt
+[instagram]: https://instagram.com/uxrahul.io
+[youtube]: https://youtube.com/@Cortex-Realm?sub_confirmation=1
+[discord]: https://discord.gg/EWr3GgP6fe
