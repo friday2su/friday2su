@@ -15,9 +15,9 @@
 
 <img  src="snake.svg" alt="example" />
 
-[<img align="left" alt="cws | YouTube" width="22px" src="https://images.icon-icons.com/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube]
-[<img align="left" alt="cws | Instagram" width="22px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" />][instagram]
-[<img align="left" alt="cws | Discord" width="22px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png" />][discord]
+[<img align="left" alt="cws | YouTube" width="30px" src="https://cdn-icons-png.freepik.com/512/246/246153.png" />][youtube]
+[<img align="left" alt="cws | Instagram" width="30px" src="https://cdn-icons-png.freepik.com/512/408/408707.png" />][instagram]
+[<img align="left" alt="cws | Discord" width="30px" src="https://cdn-icons-png.freepik.com/512/15047/15047560.png" />][discord]
 <br />
 ---
 
