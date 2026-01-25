@@ -28,9 +28,25 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=blurred-machine&border_radius=5.5&mode=weekly"
+    src="https://streak-stats.demolab.com/?user=friday2su&theme=react&border_radius=8"
     height="200"
     alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=friday2su&show_icons=true&theme=react&border_radius=8"
+    height="200"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=friday2su&layout=compact&theme=react&border_radius=8"
+    height="180"
+    alt="Top Languages"
   />
 </p>
 
