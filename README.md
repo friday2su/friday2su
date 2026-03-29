@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Cortex](https://cortexrealm.netlify.app/) & [Echo](https://echohq.in/)
 - 👯 I’m looking to collaborate with other content creators and developers!
-- 🥅 2025 Goals: Contribute to more Open Source projects!
+- 🥅 2026 Goals: Contribute to more Open Source projects!
 - ⚡ Fun fact: I am a verified bot developer on discord
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=friday2su&label=Profile%20views&color=0e75b6&style=flat" alt="friday2su" /> </p>
