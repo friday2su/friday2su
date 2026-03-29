@@ -2,7 +2,7 @@
 
 ## I'm a Student, Youtuber, and a Developer!!
 
-- 🔭 I’m currently working on [Cortex](https://cortexrealm.netlify.app/)
+- 🔭 I’m currently working on [Cortex](https://cortexrealm.netlify.app/) & [Echo](https://echohq.in/)
 - 👯 I’m looking to collaborate with other content creators and developers!
 - 🥅 2025 Goals: Contribute to more Open Source projects!
 - ⚡ Fun fact: I am a verified bot developer on discord
