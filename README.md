@@ -9,10 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=friday2su&label=Profile%20views&color=0e75b6&style=flat" alt="friday2su" /> </p>
 
-### Connect with me:
-
-[![](https://discord.c99.nl/widget/theme-4/1203605618745933880.png)](https://discord.gg/EWr3GgP6fe)
-
 <img  src="snake.svg" alt="example" />
 
 [<img align="left" alt="cws | YouTube" width="30px" src="https://cdn-icons-png.freepik.com/512/246/246153.png" />][youtube]
